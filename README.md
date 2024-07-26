@@ -3,7 +3,7 @@ Mendix integration with [ContactOut]. ContactOut is a data enrichment online pla
 
 ## Setup
 You need to :
-* create an account on [ContactOut], and set the API key (access token) in the ``Config`` entity.
+* create an account on [ContactOut], and use the API key
 * read ContactOut [documentation](https://api.contactout.com).
 
 [ContactOut]: https://contactout.com/data-enrichment-feature
